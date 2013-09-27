@@ -139,6 +139,7 @@
  * [Webmachine - A REST-based system for building web applications.](https://github.com/basho/webmachine)
  * [Small and flexible web framework on top of Cowboy](https://github.com/kivra/giallo)
  * [Comparison of Erlang Web Frameworks](https://github.com/evanmiller/ChicagoBoss/wiki/Comparison-of-Erlang-Web-Frameworks)
+ * [Chicago Boss -  inspired by Rails , comet and websocket support and simple message queue system] (https://github.com/evanmiller/ChicagoBoss)
 
 ## Web servers
 
